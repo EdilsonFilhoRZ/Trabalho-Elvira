@@ -1,2 +1,0 @@
-# Trabalho-Elvira
-Sistema Bancario
